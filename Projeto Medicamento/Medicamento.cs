@@ -1,3 +1,5 @@
+// Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves
+
 namespace Projeto_Medicamento;
 
 public class Medicamento
