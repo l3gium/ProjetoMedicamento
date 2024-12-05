@@ -25,11 +25,12 @@
 |+ toString(): string ➡️ retornar id + “-“ + nome + “-“ + laboratorio + “-“ + qtdeDisponivel()|
 |+ Equals(object obj): bool ➡️ Permitir comparação pelo id do medicamento|
 
-|Medicamentos
+|Medicamentos|
+|-|
 |- listaMedicamentos: List<Medicamento>|
 ||
 |+ Medicamentos()|
-|+ adicionar(Medicamento medicamento): void ➡️  Adicionar o medicamento na lista de medicamentos|
+|+ adicionar(Medicamento medicamento): void ➡️ Adicionar o medicamento na lista de medicamentos|
 |+ deletar(Medicamento medicamento): bool ➡️ Remover o medicamento da lista somente se a quantidade disponível for 0 (zero). Indicar sucesso/fracasso da operação com true/false|
 |+ pesquisar(Medicamento medicamento): Medicamento ➡️ Procurar o medicamento indicado na lista de Medicamentos utilizando o id do objeto como chave. Caso encontrado, retornar o objeto completo. Caso não encontrado, retornar um objeto vazio.|
 
