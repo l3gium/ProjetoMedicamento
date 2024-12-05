@@ -1,4 +1,6 @@
-﻿using System;
+// Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves
+
+using System;
 using Projeto_Medicamento;
 
 public class Program
