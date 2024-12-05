@@ -1,3 +1,5 @@
+// Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves
+
 using System.Runtime.CompilerServices;
 
 namespace Projeto_Medicamento;
